@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Bpod_USBhost")(type "KiCad")(uri "${KIPRJMOD}/Bpod_USBhost.kicad_sym")(options "")(descr ""))
+)

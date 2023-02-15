@@ -571,11 +571,11 @@
     (property "Sheetname" "")
     (path "/a01f1719-b82b-40a1-b26d-24dfff753123")
     (attr through_hole)
-    (fp_text reference "Teensy1" (at 0 -10.16 90) (layer "F.SilkS") hide
+    (fp_text reference "Teensy 4.1" (at 0 0 90) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 34fe4595-6678-4815-9b70-db1c600dafb7)
     )
-    (fp_text value "Teensy4.1" (at 0 0 90) (layer "F.Fab")
+    (fp_text value "Teensy4.1" (at 0 0 90) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ada727f8-d5d7-4df0-8212-ff9942fa24ca)
     )

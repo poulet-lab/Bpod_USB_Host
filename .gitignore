@@ -1,4 +1,6 @@
 PCB/*/*-backups/*
 PCB/*/#auto_saved_files#
 PCB/*/_autosave-*
+PCB/*/fp-info-cache
+PCB/*/*.bak
 .pio

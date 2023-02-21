@@ -1,1 +1,4 @@
 PCB/*/*-backups/*
+PCB/*/#auto_saved_files#
+PCB/*/_autosave-*
+.pio

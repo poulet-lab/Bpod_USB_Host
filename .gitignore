@@ -3,4 +3,5 @@ PCB/*/#auto_saved_files#
 PCB/*/_autosave-*
 PCB/*/fp-info-cache
 PCB/*/*.bak
+PCB/*/*.kicad_prl
 .pio

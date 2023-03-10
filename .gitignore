@@ -5,3 +5,5 @@ PCB/*/fp-info-cache
 PCB/*/*.bak
 PCB/*/*.kicad_prl
 .pio
+*.code-workspace
+.vscode
